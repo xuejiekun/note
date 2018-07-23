@@ -94,7 +94,7 @@ if __name__ == '__main__':
 ## 4.表单
 ### 表单类
 ```py
-class NameForm(Form):
+class NameForm(FlaskForm):
     name = StringField('What is your name?', validators=[DataRequired()])
     submit = SubmitField('Submit')
 ```

@@ -1,0 +1,19 @@
+drop user 'user'@'host';
+create user 'user'@'host' identified by 'pass';
+
+set password for 'user'@'host' = password('pass');
+set password = password('pass');
+
+show grants for 'user';
+
+grant select, insert on *.* to 'user'@'host';
+revoke select, insert on *.* from 'user'@'host';
+
+select * from mysql.user where user='user'\G;
+
+
+MySQL创建用户与授权 - 七月逆流 - 博客园  
+https://www.cnblogs.com/sos-blue/p/6852945.html
+
+MySQL 查看用户授予的权限 - 王超元 - 博客园  https://www.cnblogs.com/wangchaoyuana/p/7545419.html
+

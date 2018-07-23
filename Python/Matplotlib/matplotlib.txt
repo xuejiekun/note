@@ -1,0 +1,17 @@
+Tutorials — Matplotlib 2.2.2 documentation
+https://matplotlib.org/tutorials/index.html
+
+Python之Matplotlib库常用函数大全（含注释） - TensorSense - 博客园
+https://www.cnblogs.com/TensorSense/p/6802280.html
+
+matplotlib命令与格式：坐标轴数值格式(日期格式,百分比,科学记数) - CSDN博客
+https://blog.csdn.net/helunqu2017/article/details/78650782
+
+【Matplotlib】 刻度设置(2) - Chris*Chen - 博客园
+https://www.cnblogs.com/nju2014/p/5633768.html
+
+【Python笔记】1、格式化输出（%用法和format用法） - fat39 - 博客园
+https://www.cnblogs.com/fat39/p/7159881.html
+
+Matplotlib常用绘图示例 - faramita2016 - 博客园
+https://www.cnblogs.com/faramita2016/p/7784699.html

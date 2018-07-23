@@ -1,0 +1,12 @@
+sql - Python DB-API: how to handle different paramstyles? - Stack Overflow  
+https://stackoverflow.com/questions/3829098/python-db-api-how-to-handle-different-paramstyles
+
+MySQLdb插入数据时占位符问题 - Python-ChinaUnix.net  
+http://bbs.chinaunix.net/thread-3756055-1-1.html
+
+PEP 249 -- Python Database API Specification v2.0 | Python.org  
+https://www.python.org/dev/peps/pep-0249/#paramstyle
+
+MySQL :: MySQL Connector/Python Developer Guide :: 10.1.3 mysql.connector.paramstyle Property  
+https://dev.mysql.com/doc/connector-python/en/connector-python-api-mysql-connector-paramstyle.html
+

@@ -1,0 +1,23 @@
+Welcome to the Matplotlib Basemap Toolkit documentation — Basemap Matplotlib Toolkit 1.1.0 documentation
+https://matplotlib.org/basemap/
+
+【译】Basemap手册——第一章 入门（始于颜值） - CSDN博客
+https://blog.csdn.net/pengranxindong/article/details/79136486
+
+Shapefile数据结构 - CSDN博客
+https://blog.csdn.net/u014136513/article/details/50580481
+
+GADM
+https://gadm.org/index.html
+
+GADM
+https://gadm.org/download_country.html
+
+Awesome GIS（GIS Tech Stack技术栈） - 简书
+https://www.jianshu.com/p/3b3efa92dd6d
+
+麻辣GIS | 麻辣地信网 - 小而美的地理信息系统博客 - 立足GIS 放眼3S
+https://malagis.com/
+
+介绍专注于“Python气象气候应用”的二本英文书籍及作者网站
+http://www.360doc.com/content/17/1026/22/7669533_698420681.shtml

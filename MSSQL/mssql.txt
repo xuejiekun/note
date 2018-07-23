@@ -1,0 +1,28 @@
+sp_addlogin kun,123456
+
+select name from sysdatabases
+
+select name from sysobjects where xtype='u'
+
+use XinWa_Elector_DB
+
+sp_help table_name
+
+sp_columns table_name
+
+
+Download Microsoft® SQL Server® 2014 Express from Official Microsoft Download Center  
+https://www.microsoft.com/en-us/download/details.aspx?id=42299
+
+Download Microsoft® SQL Server® 2008 R2 SP2 - Express Edition from Official Microsoft Download Center  
+https://www.microsoft.com/zh-CN/download/details.aspx?id=30438
+
+“无法升级数据库....因为此版本的 SQL Server 不支持该数据库的非发布版本(539) “解决方案 - CSDN博客  
+https://blog.csdn.net/jhope/article/details/69055198
+
+SQL Server 2008 怎么附件只有mdf的数据库-CSDN论坛  
+https://bbs.csdn.net/topics/310186982
+
+请问我只有MDF文件，没有LDF文件，如何附加数据库？？-CSDN论坛  
+https://bbs.csdn.net/topics/80368417
+

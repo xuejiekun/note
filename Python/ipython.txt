@@ -1,0 +1,11 @@
+IPython介绍 - CSDN博客
+https://blog.csdn.net/gavin_john/article/details/53086766
+
+IPython 新建窗口绘图 - CSDN博客
+https://blog.csdn.net/u012675539/article/details/46981851
+
+远程访问Jupyter Notebook - lbzhang - 博客园
+https://www.cnblogs.com/zhanglianbo/p/6109939.html
+
+安装新的Python内核
+ipython3 kernelspec install-self

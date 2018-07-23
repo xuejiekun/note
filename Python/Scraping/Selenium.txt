@@ -1,0 +1,12 @@
+震惊！Selenium分手PhantomJS - 软件开发其他 - 红黑联盟  
+https://www.2cto.com/kf/201802/721593.html
+
+selenium（六）Headless Chrome/Firefox--PhantomJS停止支持后，使用无界面模式。  
+http://www.mamicode.com/info-detail-2193163.html
+
+PhantomJS在Selenium中被标记为过时的应对措施 - zhuxiaoxi - 博客园  
+https://www.cnblogs.com/zhuxiaoxi/p/8425686.html
+
+Releases · mozilla/geckodriver  
+https://github.com/mozilla/geckodriver/releases
+

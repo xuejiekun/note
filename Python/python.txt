@@ -1,0 +1,22 @@
+python官网:
+https://www.python.org/
+
+Python Extension Packages for Windows - Christoph Gohlke
+https://www.lfd.uci.edu/~gohlke/pythonlibs/
+
+Microsoft Visual C++ Compiler for Python 2.7:
+http://aka.ms/vcpython27
+
+
+重新确定pip
+python -m ensurepip
+
+升级pip
+python -m pip install --upgrade pip
+
+flask教程:
+https://github.com/miguelgrinberg/flasky
+数据分析:
+https://github.com/wesm/pydata-book
+basemap:
+https://github.com/rveciana/BasemapTutorial
